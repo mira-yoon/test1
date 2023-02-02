@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/test1/static/css/main.c1623dad.css",
+    "main.js": "/test1/static/js/main.05435440.js",
+    "static/media/background.jpg": "/test1/static/media/background.9d8ffdf2b026e3a71002.jpg",
+    "static/media/profile.jpg": "/test1/static/media/profile.e2608c2bb9d5a58c15ce.jpg",
+    "static/media/Github.svg": "/test1/static/media/Github.44eca8266047557a439218d2afc94622.svg",
+    "static/media/Logo.svg": "/test1/static/media/Logo.ea185720a23355dde4b383c500d5238d.svg",
+    "static/media/Twitter.svg": "/test1/static/media/Twitter.710e72afc7caf1b555e2ce576d59b6bc.svg",
+    "static/media/icon-modify.svg": "/test1/static/media/icon-modify.a0c44dddeeb034405fbd.svg",
+    "static/media/icon-register.svg": "/test1/static/media/icon-register.14da19af764629d809f4443e36ee3427.svg",
+    "static/media/Instagram.svg": "/test1/static/media/Instagram.257baf24eaca6782ee43c4f644618e3e.svg",
+    "static/media/Facebook.svg": "/test1/static/media/Facebook.3bf3b52a20142d76f4db7786706685a0.svg",
+    "static/media/icon-delete.svg": "/test1/static/media/icon-delete.cdfd12b1245deea1ae59.svg",
+    "static/media/icon-modify-white.svg": "/test1/static/media/icon-modify-white.7936232650b55b108bd177114b80eedb.svg",
+    "static/media/icon-logout.svg": "/test1/static/media/icon-logout.24d6f1e18bf12b306a121ff821cd4266.svg",
+    "static/media/icon-save.svg": "/test1/static/media/icon-save.8857aa83c9b6f312a8f4.svg",
+    "static/media/icon-like.svg": "/test1/static/media/icon-like.ea57499461b6f402eadd.svg",
+    "static/media/icon-delete-white.svg": "/test1/static/media/icon-delete-white.b1c660db8a27a74dad21.svg",
+    "static/media/icon-save-white.svg": "/test1/static/media/icon-save-white.05943bbb17b95d133b6b.svg",
+    "static/media/icon-login.svg": "/test1/static/media/icon-login.8e36ae402cd69fd4cdea4c5934019277.svg",
+    "static/media/icon-like-white.svg": "/test1/static/media/icon-like-white.547a2a003e8f8143fc9c.svg",
+    "index.html": "/test1/index.html",
+    "static/media/ArrowLeft-blue.svg": "/test1/static/media/ArrowLeft-blue.a8f040986b41c7713bf5.svg",
+    "static/media/ArrowTop.svg": "/test1/static/media/ArrowTop.31b9123f76deea3066cd.svg",
+    "main.c1623dad.css.map": "/test1/static/css/main.c1623dad.css.map",
+    "main.05435440.js.map": "/test1/static/js/main.05435440.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1623dad.css",
+    "static/js/main.05435440.js"
+  ]
+}
